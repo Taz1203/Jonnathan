@@ -1,0 +1,7 @@
+*.kwl
+clear_panel()
+set_grid_size(16,8)
+add_switch(1,1,4,1,1,0,0)
+set_panel_notes(,,,)
+run()
+*
